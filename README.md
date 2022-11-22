@@ -3,8 +3,8 @@ Graph structural information such as topologies or connectivities provides valua
 
 ### Required Packages
 Please refer requirements.txt. To install the missing packages, run the following command:
-```
-pip install -r requirements.txt
+```sh
+!pip install -r requirements.txt
 ```
 
 ### Run the demo
